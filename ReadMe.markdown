@@ -1,6 +1,6 @@
 # Project: Arduino Solar Sunflower
 
-A sun tracker is an automatic platform that always turns its face towards the sun throughout the day like a sunflower. This project is a sunflower sun trackers using Arduino, a servo motor, photoresistors, and some code to bring it to life. 
+A sun tracker is an automatic platform that always turns its face towards the sun throughout the day like a sunflower. This project is a sunflower sun tracker using Arduino, a servo motor, photoresistors, and some code to bring it to life. 
 
 ## Step 1: Assemble the circuit
 
